@@ -1,2 +1,2 @@
-# stepin-library-management
+# stepin-sorting an array
 mini project
