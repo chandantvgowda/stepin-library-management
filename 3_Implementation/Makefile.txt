@@ -3,7 +3,7 @@
 #Target : dependency
 #<TAB>Command
 
-PROJ_NAME = Library
+PROJ_NAME = Library Management
 TEST_PROJ_NAME = Test_$(PROJ_NAME)
 
 SRC =src\init.c\
